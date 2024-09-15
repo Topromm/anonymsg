@@ -1,4 +1,4 @@
-# Anonymsg - Anonymous Messaging Bot for Discord
+# Anonymsg
 
 **Anonymsg** is a Discord bot designed to facilitate the sending of anonymous messages in a server. It allows users to express their thoughts or emotions anonymously, creating a safe space for those who may struggle to open up, while still maintaining necessary moderation.
 
