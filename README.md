@@ -21,3 +21,7 @@
 - `/sendhere [message]` — Sends a message in the current channel.
 - `/dm [user] [message]` — Sends a DM to the chosen user.
 - `/shutdown` — Shuts down the bot.
+
+## License
+
+© Copyright 2025 Topromm.
